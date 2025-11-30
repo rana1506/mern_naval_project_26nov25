@@ -1,0 +1,6 @@
+npm init -y 
+npm i bcrypt cors dotenv express express-async-handler jsonwebtoken mongoose
+
+
+npm create vite@latest my-react-app -- --template react
+npm i react-router-dom axios 
